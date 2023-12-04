@@ -13,7 +13,6 @@ public class LoginActivity extends AppCompatActivity {
     EditText username;
     EditText password; //password form
     Button loginButton;
-    //Coment nnt
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
