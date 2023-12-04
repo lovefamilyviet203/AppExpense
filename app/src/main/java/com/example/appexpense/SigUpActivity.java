@@ -10,5 +10,7 @@ public class SigUpActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sig_up);
+        //This i commment
+        //Comement
     }
 }
