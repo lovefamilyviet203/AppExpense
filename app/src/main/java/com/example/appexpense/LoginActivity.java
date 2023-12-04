@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
     EditText username;
-    EditText password;
+    EditText password; //password form
     Button loginButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
